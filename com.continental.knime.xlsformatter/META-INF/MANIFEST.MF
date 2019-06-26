@@ -31,3 +31,4 @@ Export-Package: com.continental.knime.xlsformatter.apply,
  com.continental.knime.xlsformatter.xlscontroltablefromcellrange,
  com.continental.knime.xlsformatter.xlscontroltablegenerator,
  com.continental.knime.xlsformatter.xlscontroltablemerger
+Import-Package: org.w3c.dom.events;version="[3.0.0,4.0.0)"
