@@ -2,7 +2,7 @@
 <feature
       id="com.continental.knime.update"
       label="Continental Nodes for KNIME Update Site"
-      version="0.8.2.qualifier"
+      version="0.8.3.qualifier"
       provider-name="Continental">
 
    <includes
